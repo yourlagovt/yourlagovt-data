@@ -83,7 +83,7 @@ function parseName(string $rawName): object
 
 function formatPhone(string $phone): string
 {
-    return preg_replace('/^\\(([0-9]{3})\\)([0-9]{3})-([0-9]{4}).*$/', '+1-$1-$2-$3', $phone);
+    return preg_replace('/^\\(([0-9]{3})\\)\h*([0-9]{3})-([0-9]{4}).*$/', '+1-$1-$2-$3', $phone);
 }
 
 function parseFieldset(DOMElement $fieldset): array
