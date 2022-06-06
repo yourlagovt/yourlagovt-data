@@ -152,7 +152,7 @@ function getLegiScanVotesForPerson(int $peopleId, string $role): array
     }
     uasort($personVotes, fn($a, $b) => $b->date <=> $a->date);
     foreach ($personVotes as $billId => $personVote) {
-        $personVote->billNumber = getLegiScanBill(billId: $billId, role: $role)->number;
+        $personVote->bill_number = getLegiScanBill(billId: $billId, role: $role)->number;
     }
     return array_values($personVotes);
 }
@@ -254,8 +254,8 @@ function getLegiScanBills(array $officials, string $role): array
     $bills = [];
     foreach ($officials as $official) {
         foreach ($official->votes as $vote) {
-            if (!isset($bills[$vote->billNumber])) {
-                $bills[$vote->billNumber] = getLegiScanBill(billNumber: $vote->billNumber, role: $role);
+            if (!isset($bills[$vote->bill_number])) {
+                $bills[$vote->bill_number] = getLegiScanBill(billNumber: $vote->bill_number, role: $role);
             }
         }
     }
