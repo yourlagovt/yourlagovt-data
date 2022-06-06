@@ -1,0 +1,774 @@
+[
+    {
+        "district": 1,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/McCormick4LA"
+        }
+    },
+    {
+        "district": 2,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/votesamjenkins"
+        }
+    },
+    {
+        "district": 3,
+        "gender": "F",
+        "race": "African-American"
+    },
+    {
+        "district": 4,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/MayorGlover"
+        }
+    },
+    {
+        "district": 5,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepAlanSeabaugh"
+        }
+    },
+    {
+        "district": 6,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/TAPressly"
+        }
+    },
+    {
+        "district": 7,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/LarryBagleyLA"
+        }
+    },
+    {
+        "district": 8,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/raymondcrewsla"
+        }
+    },
+    {
+        "district": 9,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/repdodiehorton"
+        }
+    },
+    {
+        "district": 10,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 11,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/POJefferson"
+        }
+    },
+    {
+        "district": 12,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/cnturner4"
+        }
+    },
+    {
+        "district": 13,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepMcFarland"
+        }
+    },
+    {
+        "district": 14,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/michaelechols",
+            "facebook": "https://www.facebook.com/michaelechols"
+        }
+    },
+    {
+        "district": 15,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/foyvote"
+        }
+    },
+    {
+        "district": 16,
+        "gender": "M",
+        "race": "African-American"
+    },
+    {
+        "district": 17,
+        "gender": "F",
+        "race": "African-American"
+    },
+    {
+        "district": 18,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/combefor"
+        }
+    },
+    {
+        "district": 19,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 20,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/neilriser"
+        }
+    },
+    {
+        "district": 21,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/ctravisjohnson"
+        }
+    },
+    {
+        "district": 22,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/FirmentGabe"
+        }
+    },
+    {
+        "district": 23,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/StateRepKCox"
+        }
+    },
+    {
+        "district": 24,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/rodneyrep"
+        }
+    },
+    {
+        "district": 25,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepLanceHarris"
+        }
+    },
+    {
+        "district": 26,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/EdLarvadain"
+        }
+    },
+    {
+        "district": 27,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/StateJohnson"
+        }
+    },
+    {
+        "district": 28,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/DarylDeshotel"
+        }
+    },
+    {
+        "district": 29,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/jordan4justice"
+        }
+    },
+    {
+        "district": 30,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/realChuckOwen"
+        }
+    },
+    {
+        "district": 31,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 32,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 33,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/FarnumLes"
+        }
+    },
+    {
+        "district": 34,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/wilford_carter"
+        }
+    },
+    {
+        "district": 35,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/BrettGeymann"
+        }
+    },
+    {
+        "district": 36,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/tarverstaterep"
+        }
+    },
+    {
+        "district": 37,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/TroyRom81162145"
+        }
+    },
+    {
+        "district": 38,
+        "gender": "F",
+        "race": "Caucasian"
+    },
+    {
+        "district": 39,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/julieemerson"
+        }
+    },
+    {
+        "district": 40,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/Rep_Miller"
+        }
+    },
+    {
+        "district": 41,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 42,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepStefanski"
+        }
+    },
+    {
+        "district": 43,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/ElectSBishop"
+        }
+    },
+    {
+        "district": 44,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/vincentpierre15"
+        }
+    },
+    {
+        "district": 45,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/JeanPaulCoussan"
+        }
+    },
+    {
+        "district": 46,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/MikeHuval"
+        }
+    },
+    {
+        "district": 47,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/ryanbourriaque"
+        }
+    },
+    {
+        "district": 48,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/beaubeaullieu"
+        }
+    },
+    {
+        "district": 49,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/BlakeMiguezLA"
+        }
+    },
+    {
+        "district": 50,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 51,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/BerylAmedee"
+        }
+    },
+    {
+        "district": 52,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/JZeeRep"
+        }
+    },
+    {
+        "district": 53,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/TannerDMagee"
+        }
+    },
+    {
+        "district": 54,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 55,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/GeauxFontenot"
+        }
+    },
+    {
+        "district": 56,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/GregMillerStRep"
+        }
+    },
+    {
+        "district": 57,
+        "gender": "M",
+        "race": "African-American"
+    },
+    {
+        "district": 58,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://mobile.twitter.com/BrassRep"
+        }
+    },
+    {
+        "district": 59,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/tbacala2"
+        }
+    },
+    {
+        "district": 60,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/ChadBrown4La"
+        }
+    },
+    {
+        "district": 61,
+        "gender": "F",
+        "race": "African-American"
+    },
+    {
+        "district": 62,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 63,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/barbarawestcar1"
+        }
+    },
+    {
+        "district": 64,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/ValarieHodges64"
+        }
+    },
+    {
+        "district": 65,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/barry_ivey"
+        }
+    },
+    {
+        "district": 66,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RickEdmondsLA"
+        }
+    },
+    {
+        "district": 67,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/voteforlarry"
+        }
+    },
+    {
+        "district": 68,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/mcknight4la"
+        }
+    },
+    {
+        "district": 69,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepPaulaDavis"
+        }
+    },
+    {
+        "district": 70,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/bfreiberg1"
+        }
+    },
+    {
+        "district": 71,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 72,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 73,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/drbillwheatsta1"
+        }
+    },
+    {
+        "district": 74,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/FriemanLarry"
+        }
+    },
+    {
+        "district": 75,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/MalindaBWhite"
+        }
+    },
+    {
+        "district": 76,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/GeauxRepBobOwen"
+        }
+    },
+    {
+        "district": 77,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/WrightLouisiana"
+        }
+    },
+    {
+        "district": 78,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/bigillg"
+        }
+    },
+    {
+        "district": 79,
+        "gender": "F",
+        "race": "Caucasian"
+    },
+    {
+        "district": 80,
+        "gender": "F",
+        "race": "Caucasian"
+    },
+    {
+        "district": 81,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/SchexnayderClay"
+        }
+    },
+    {
+        "district": 82,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepSchlegel"
+        }
+    },
+    {
+        "district": 83,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/RepKyleGreen"
+        }
+    },
+    {
+        "district": 84,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/KernerforDist84"
+        }
+    },
+    {
+        "district": 85,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepJoeMarino"
+        }
+    },
+    {
+        "district": 86,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/nicky705"
+        }
+    },
+    {
+        "district": 87,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/Lyons4leader"
+        }
+    },
+    {
+        "district": 88,
+        "gender": "F",
+        "race": "Caucasian"
+    },
+    {
+        "district": 89,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/NelsonforLA"
+        }
+    },
+    {
+        "district": 90,
+        "gender": "F",
+        "race": "Caucasian"
+    },
+    {
+        "district": 91,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/votelandry"
+        }
+    },
+    {
+        "district": 92,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/JosephStagniDC"
+        }
+    },
+    {
+        "district": 93,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/RoyceDuplessis"
+        }
+    },
+    {
+        "district": 94,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/Nola_Hilf"
+        }
+    },
+    {
+        "district": 95,
+        "gender": "M",
+        "race": "Caucasian"
+    },
+    {
+        "district": 96,
+        "gender": "M",
+        "race": "African-American"
+    },
+    {
+        "district": 97,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/MattWillard97"
+        }
+    },
+    {
+        "district": 98,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/aimee4nola"
+        }
+    },
+    {
+        "district": 99,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/RepNewell99"
+        }
+    },
+    {
+        "district": 100,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/jasonhughes100"
+        }
+    },
+    {
+        "district": 101,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/vclafleur"
+        }
+    },
+    {
+        "district": 102,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "twitter": "https://twitter.com/deeboydbroker"
+        }
+    },
+    {
+        "district": 103,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RayGarofalo"
+        }
+    },
+    {
+        "district": 104,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "twitter": "https://twitter.com/RepPaulHollis"
+        }
+    },
+    {
+        "district": 105,
+        "gender": "M",
+        "race": "Caucasian"
+    }
+]

@@ -1,0 +1,401 @@
+[
+    {
+        "district": 1,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.sharonhewitt.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Hewitt",
+            "facebook": "https://www.facebook.com/SenatorSharonHewitt/",
+            "twitter": "https://twitter.com/sharonhewitt",
+            "youtube": "https://www.youtube.com/c/SharonHewittLA"
+        }
+    },
+    {
+        "district": 2,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Ed_Price_(Louisiana_politician)",
+            "facebook": "https://www.facebook.com/edpriceforsenate",
+            "twitter": "https://twitter.com/EdPrice1953",
+            "instagram": "https://www.instagram.com/senatoredprice/"
+        }
+    },
+    {
+        "district": 3,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Bouie_Jr.",
+            "facebook": "https://www.facebook.com/docjoebouie",
+            "twitter": "https://twitter.com/docjoebouie"
+        }
+    },
+    {
+        "district": 4,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Harris_(politician)",
+            "facebook": "https://www.facebook.com/profile.php?id=100057669927287",
+            "twitter": "https://twitter.com/jimmy4nola"
+        }
+    },
+    {
+        "district": 6,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.mackbodiwhite.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Bodi_White",
+            "facebook": "https://www.facebook.com/BodiWhite",
+            "twitter": "https://twitter.com/BodiWhiteLA"
+        }
+    },
+    {
+        "district": 7,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "website": "https://www.garycarterjr.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Gary_Carter_Jr.",
+            "facebook": "https://www.facebook.com/algiersgarycarter",
+            "twitter": "https://twitter.com/gm_carter"
+        }
+    },
+    {
+        "district": 8,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://patrickconnickforsenate.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Connick",
+            "facebook": "https://www.facebook.com/louise.jenniskens"
+        }
+    },
+    {
+        "district": 9,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "http://jcameronhenry.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Cameron_Henry",
+            "facebook": "https://www.facebook.com/CameronHenryLA",
+            "twitter": "https://twitter.com/sen_henry09"
+        }
+    },
+    {
+        "district": 10,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Kirk_Talbot",
+            "facebook": "https://www.facebook.com/KirkTalbotLA",
+            "twitter": "https://twitter.com/talbotforla"
+        }
+    },
+    {
+        "district": 11,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.patrickmcmath.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Patrick_McMath",
+            "facebook": "https://www.facebook.com/PatrickMcMath2019/",
+            "twitter": "https://twitter.com/McmathMoore",
+            "instagram": "https://www.instagram.com/patmcmath/"
+        }
+    },
+    {
+        "district": 12,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.bethmizell.com/",
+            "facebook": "https://www.facebook.com/SenatorBethMizell",
+            "twitter": "https://twitter.com/bethmizell"
+        }
+    },
+    {
+        "district": 13,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "http://rogerspope.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/J._Rogers_Pope",
+            "facebook": "https://www.facebook.com/jrogerspopeforsenate/",
+            "youtube": "https://www.youtube.com/channel/UCdDx2x2nxznt6T8fiRj9Xxw"
+        }
+    },
+    {
+        "district": 14,
+        "gender": "M",
+        "race": "African-American",
+        "url": {
+            "website": "https://www.cleofields.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Cleo_Fields",
+            "facebook": "https://www.facebook.com/cleo.fields.1/",
+            "twitter": "https://twitter.com/realCleoFields",
+            "instagram": "https://www.instagram.com/senatorcleofields/",
+            "youtube": "https://www.youtube.com/channel/UCmqQcGG9juNLDNb-dRbcTPg"
+        }
+    },
+    {
+        "district": 15,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Regina_Barrow",
+            "facebook": "https://www.facebook.com/profile.php?id=100057962565666",
+            "twitter": "https://twitter.com/barrowregina",
+            "instagram": "https://www.instagram.com/barrow44/"
+        }
+    },
+    {
+        "district": 16,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.franklinfoil.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Foil",
+            "facebook": "https://www.facebook.com/LouisianaSenateDistrict16",
+            "twitter": "https://twitter.com/FranklinJFoil"
+        }
+    },
+    {
+        "district": 17,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "http://rickwardlouisiana.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Rick_Ward_III",
+            "facebook": "https://www.facebook.com/RickWardIII/",
+            "twitter": "https://twitter.com/RickWardLA",
+            "instagram": "https://www.instagram.com/RickWardIII/"
+        }
+    },
+    {
+        "district": 18,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Eddie_J._Lambert",
+            "facebook": "https://www.facebook.com/eddielambertla/"
+        }
+    },
+    {
+        "district": 19,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "http://garysmithjr.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Gary_Smith_Jr.",
+            "facebook": "https://www.facebook.com/gsmithatty"
+        }
+    },
+    {
+        "district": 20,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.bigmikefesi.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mike_Fesi",
+            "facebook": "https://ballotpedia.org/Michael_Fesi",
+            "twitter": "https://twitter.com/fesi_forsenate"
+        }
+    },
+    {
+        "district": 21,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.bretallain.com",
+            "facebook": "https://www.facebook.com/bret.allain",
+            "instagram": "https://www.instagram.com/senatordistrict21/"
+        }
+    },
+    {
+        "district": 22,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Fred_Mills_(politician)",
+            "facebook": "https://www.facebook.com/FredHMillsJr/"
+        }
+    },
+    {
+        "district": 23,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Page_Cortez"
+        }
+    },
+    {
+        "district": 24,
+        "gender": "M",
+        "race": "African-America",
+        "url": {
+            "website": "https://www.geraldboudreaux.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Boudreaux",
+            "facebook": "https://www.facebook.com/geraldboudreaux.la/",
+            "twitter": "https://twitter.com/GeraldBoudreaux",
+            "youtube": "https://www.youtube.com/channel/UC6Agu8p_5XI4hIvy9aXYeTw"
+        }
+    },
+    {
+        "district": 25,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://markabrahamla.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mark_Abraham",
+            "facebook": "https://www.facebook.com/MarkAbrahamLA"
+        }
+    },
+    {
+        "district": 26,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Bob_Hensgens",
+            "twitter": "https://twitter.com/bobhensgens"
+        }
+    },
+    {
+        "district": 27,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.jeremystine.com/",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Stine",
+            "facebook": "https://www.facebook.com/jeremypstine/",
+            "twitter": "https://twitter.com/JeremyStine",
+            "instagram": "https://www.instagram.com/stineforsenate/"
+        }
+    },
+    {
+        "district": 28,
+        "gender": "F",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://www.heathercloudforlouisiana.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Heather_Cloud",
+            "facebook": "https://www.facebook.com/heather.cloud.984",
+            "twitter": "https://twitter.com/HeatherCloud4"
+        }
+    },
+    {
+        "district": 29,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Jay_Luneau",
+            "facebook": "https://www.facebook.com/JayLuneauforSenate",
+            "twitter": "https://twitter.com/wjluneau"
+        }
+    },
+    {
+        "district": 30,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://twitter.com/wjluneau",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mike_Reese_(Louisiana_politician)",
+            "facebook": "https://www.facebook.com/MikeReeseForLA"
+        }
+    },
+    {
+        "district": 31,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Louie_Bernard",
+            "facebook": "https://www.facebook.com/LouieBernardForSenate",
+            "twitter": "https://twitter.com/louie_bernard_"
+        }
+    },
+    {
+        "district": 32,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Glen_Womack",
+            "facebook": "https://www.facebook.com/GlenDWomackSenatorDistrict32/"
+        }
+    },
+    {
+        "district": 33,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://catheyforsenate.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Stewart_Cathey_Jr.",
+            "facebook": "https://www.facebook.com/stewart.cathey.3",
+            "twitter": "https://twitter.com/stewartcatheyjr"
+        }
+    },
+    {
+        "district": 34,
+        "gender": "F",
+        "race": "African-American",
+        "url": {
+            "website": "https://www.katrinarjackson.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Katrina_Jackson",
+            "facebook": "https://www.facebook.com/katrinajacksonforsenate",
+            "twitter": "https://twitter.com/KatrinaRJackson",
+            "youtube": "https://www.youtube.com/channel/UCkLgMkdfwNursNlg2H-6mQg",
+            "instagram": "https://www.instagram.com/katrina.jackson.7528/"
+        }
+    },
+    {
+        "district": 35,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Jay_Morris",
+            "facebook": "https://www.facebook.com/jaymeansjobs",
+            "twitter": "https://twitter.com/JayJaymorris3"
+        }
+    },
+    {
+        "district": 36,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "website": "https://robertmillsforsenate.com",
+            "wikipedia": "https://en.wikipedia.org/wiki/Robert_Mills_(politician)",
+            "facebook": "https://www.facebook.com/robert.m.mills",
+            "instagram": "https://www.instagram.com/mills4senate/"
+        }
+    },
+    {
+        "district": 37,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Barrow_Peacock",
+            "facebook": "https://www.facebook.com/SenatorBarrowPeacock/",
+            "twitter": "https://twitter.com/senatorpeacock"
+        }
+    },
+    {
+        "district": 38,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Barry_Milligan",
+            "facebook": "https://www.facebook.com/profile.php?id=100000606064316"
+        }
+    },
+    {
+        "district": 39,
+        "gender": "M",
+        "race": "Caucasian",
+        "url": {
+            "facebook": "https://www.facebook.com/senatortarver",
+            "twitter": "https://twitter.com/GregoryTarver"
+        }
+    }
+]
