@@ -130,8 +130,10 @@ php src/house.php > data/house.json
 To run one of the PHP scripts from this repository using Docker:
 
 ```sh
-docker run -it --rm -v `pwd`:/app -w /app php:8-cli-alpine php SCRIPT
+docker run -it --rm -v `pwd`:/app -w /app php:8-cli-alpine php SCRIPT > OUTPUT
 ```
+
+For `SCRIPT` and `OUTPUT`, substitute either `src/senate.php` and `data/senate.json` or `src/house.php` and `data/house.json` respectively.
 
 # Licensing
 
