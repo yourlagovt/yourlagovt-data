@@ -70,7 +70,7 @@ function parseName(string $rawName): object
 {
     $name = new stdClass;
     [$name->last, $name->first] = explode(', ', trim($rawName), 2);
-    if (preg_match('/\s*([JS]r\.?|I{1,3}|IV),?\s*/', $name->first, $match)) {
+    if (preg_match('/\s*([JS]r\.?|IV|I{1,3}),?\s*/', $name->first, $match)) {
         $name->first = str_replace($match[0], '', $name->first);
         $name->suffix = $match[1];
     }
