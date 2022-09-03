@@ -94,6 +94,9 @@ $bills = getLegiScanBills($senators, 'Sen');
 $curated = parseJsonFile(__DIR__ . '/../data/senators-curated.json');
 foreach ($curated as $senator) {
     $district = $senator->district;
+    if (!isset($senators[$district])) {
+        continue;
+    }
     $senators[$district]->gender = $senator->gender;
     $senators[$district]->race = $senator->race;
     foreach ($senator->url as $name => $value) {
